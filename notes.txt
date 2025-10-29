@@ -2,7 +2,8 @@ My first Git exercise notes.
 Practicing clone, commit, push, pull.
 
 ## Summary
-This is the MAIN branch summary (different text to conflict).
+Merged: includes both main and feature points.q
 
 ## Insights
 Key insight written on main branch.
+
