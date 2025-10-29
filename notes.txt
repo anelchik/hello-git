@@ -1,0 +1,2 @@
+My first Git exercise notes.
+Practicing clone, commit, push, pull.
